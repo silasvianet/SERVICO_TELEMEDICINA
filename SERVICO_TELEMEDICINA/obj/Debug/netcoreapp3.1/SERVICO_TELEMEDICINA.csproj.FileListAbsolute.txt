@@ -1,0 +1,4 @@
+C:\Users\Admin\source\repos\SERVICO_TELEMEDICINA\SERVICO_TELEMEDICINA\obj\Debug\netcoreapp3.1\SERVICO_TELEMEDICINA.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\SERVICO_TELEMEDICINA\SERVICO_TELEMEDICINA\obj\Debug\netcoreapp3.1\SERVICO_TELEMEDICINA.AssemblyInfo.cs
+C:\Users\Admin\source\repos\SERVICO_TELEMEDICINA\SERVICO_TELEMEDICINA\obj\Debug\netcoreapp3.1\SERVICO_TELEMEDICINA.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\SERVICO_TELEMEDICINA\SERVICO_TELEMEDICINA\obj\Debug\netcoreapp3.1\SERVICO_TELEMEDICINA.MvcApplicationPartsAssemblyInfo.cache
