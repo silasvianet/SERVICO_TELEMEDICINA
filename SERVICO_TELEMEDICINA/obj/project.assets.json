@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Admin\\source\\repos\\SERVICO_TELEMEDICINA\\SERVICO_TELEMEDICINA\\SERVICO_TELEMEDICINA.csproj",
+      "projectUniqueName": "C:\\projeto\\SERVICO_TELEMEDICINA\\SERVICO_TELEMEDICINA\\SERVICO_TELEMEDICINA.csproj",
       "projectName": "SERVICO_TELEMEDICINA",
-      "projectPath": "C:\\Users\\Admin\\source\\repos\\SERVICO_TELEMEDICINA\\SERVICO_TELEMEDICINA\\SERVICO_TELEMEDICINA.csproj",
+      "projectPath": "C:\\projeto\\SERVICO_TELEMEDICINA\\SERVICO_TELEMEDICINA\\SERVICO_TELEMEDICINA.csproj",
       "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Admin\\source\\repos\\SERVICO_TELEMEDICINA\\SERVICO_TELEMEDICINA\\obj\\",
+      "outputPath": "C:\\projeto\\SERVICO_TELEMEDICINA\\SERVICO_TELEMEDICINA\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
@@ -68,7 +68,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.202\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.301\\RuntimeIdentifierGraph.json"
       }
     }
   }

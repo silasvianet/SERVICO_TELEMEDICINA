@@ -1,0 +1,80 @@
+Entrevista Técnica - Inex Recurso Silas Paixão
+
+Ingressar no seu computador, aplicativo móvel ou dispositivo de sala
+
+Clique para ingressar na reunião
+
+ID da Reunião: 214 713 985 088
+Senha: PASwAr
+
+Baixar o Teams | Participe na web
+
+Saiba mais | Opções de reunião
+
+
+--------------------------------------------------------------------------------------------------------
+
+Descrição
+Tecnologias: 
+
+C#; ==>
+.Net Framework; ==>
+.Net; ==>
+.Net Core; ==>
+.Net 5 +; ==>
+VB.NET; 
+Asp.Net; ==>
+Web Forms; ==> 
+Entity Framework; ==>
+Fluent Migrations; 
+Windows Services; 
+Windows Installer; 
+SOLID; ==>
+DDD Domain Driven Development; ==>
+
+Os Pilares do DDD e alguns exemplos
+-LINGUAGEM UBÍQUA – EXEMPLO DE GLOSSÁRIO
+-BOUNDED CONTEXTS – EXEMPLO DE HISTÓRIA
+-Modelagem Estratégica
+A Modelagem Estratégica é a definição dos contextos que utilizaremos no sistema.
+-Context Map
+O terceiro pilar do DDD é o Context Map, que nada mais é que o mapeamento dos Bounded Contexts.
+-Arquitetura Contextual
+A partir do momento que temos o Context Map definido, podemos avançar para a arquitetura, que já é uma forma mais técnica de entendimento.
+-Domain Model Patterns
+Quando trabalhamos com DDD, ele utiliza Domain Model Patterns, que são padrões de desenvolvimento e estruturação de aplicações cujo domínio é o principal foco, sendo que eles estão focados em entidades de agregadores, objetos de valor, repositórios e serviços.
+-Aggregate Objects
+Aggregate Objects são diversas entidades que estão no mesmo contexto e que se consomem.
+-Value Objects
+Objetos de Valor (Value Objects) têm as seguintes características: são imutáveis, possuem coleção de atributos, normalmente não possuem métodos setters, a entrada de valor é por um construtor e possuem tipagem forte ao invés da utilização de dados primitivos.
+-Repositories
+Os Repositórios possuem acesso direto a camada de dados podendo persistir dados e realizar as consultas. Lembrando que devemos sempre utilizar um repositório por agregação. Um repositório também pode consultar diretamente serviços externos.
+-Domain Services
+Os Serviços de Domínio implementam a lógica de negócios a partir da definição de um expert de domínio. Trabalham com diversos fluxos de diversas entidades e agregações, utilizam os repositórios como interface de acesso aos dados e consomem recursos da camada de infraestrutura, como: enviar email, disparar eventos, entre outros.
+
+O que é DDD ou Domain Driven Design?
+“É um conjunto de princípios com foco em domínio, exploração de modelos de formas criativas e definir e falar a linguagem Ubíqua, baseado no contexto delimitado.”
+
+Os 3 princípios do DDD
+Antes de percorrermos com mais detalhes os principais pontos do DDD, é fundamental que consigamos entender de forma clara seus três pilares e como os mesmos têm relação entre si.
+
+O que é domínio?
+Domínio é o coração do negócio em que você está trabalhando. É baseado em um conjunto de ideias, conhecimento e processos de negócio. É a razão do negócio existir. Sem o domínio todo o sistema, todos os processos auxiliares, não servirão para nada.
+
+Se uma empresa existe, é porque ela tem um core business e, normalmente, esse core business é composto pelo domínio principal.
+
+Resumindo, sempre que se falar em domínio, estaremos falando da razão daquele software existir. Sem aquele ponto principal, não há razão para o desenvolvimento do software.
+
+Exploração de Modelos e Formas Criativas
+Quando falamos em DDD – Domain Driven Design, não falamos apenas em desenvolver um software, mas sim em entender a modelagem do projeto como um todo.
+Se você não souber modelar o software, não conseguirá fazê-lo crescer e ser mantido a médio e longo prazo.
+
+Gerenciamento de IIS básico
+
+
+Requisitos
+--> MSSQL; PostgreSQL; DynamoDB;
+--> AWS; SQS; SES; ECS; EC2;
+
+
+Atuação: Como desenvolvedor em sustentação/ Analista Programador onde realiza manutenção e melhoria de sistemas Legados e Modernos usando a plataforma .Net. Manipulação de Dados através de MSSQL e PostgreSQL.
